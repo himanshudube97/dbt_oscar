@@ -1,0 +1,14 @@
+version: 2
+sources:
+- name: staging
+  schema: staging
+  tables:
+  - name: gform_attendence_data
+    identifier: gform_attendence_data
+    description: ''
+  - name: kobo_raw_data
+    identifier: kobo_raw_data
+    description: ''
+  - name: upshot_data
+    identifier: upshot_data
+    description: ''
